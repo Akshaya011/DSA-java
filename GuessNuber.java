@@ -1,6 +1,6 @@
    import java.util.Scanner;
 
-public class project1{
+public class GuessNumber{
     public static void main(String[] args){
         //mini-project
         Scanner sc = new Scanner(System.in);
